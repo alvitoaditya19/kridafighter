@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386158978772",
+    "project_id": "kridafighter",
+    "storage_bucket": "kridafighter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386158978772:android:f7938b264c2d3364dc7d41",
+        "android_client_info": {
+          "package_name": "com.kirdapro.kridafighter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386158978772-jmv2a1d352lehjrv1dft5l9u3nrj4gbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzAFsh2vg0jrxE36F9bCwpL_SZanaNyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386158978772-jmv2a1d352lehjrv1dft5l9u3nrj4gbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
