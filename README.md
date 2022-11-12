@@ -1,6 +1,6 @@
 # kridafighter
 
-A new Flutter project.
+Internet Of Things Application
 
 ## Getting Started
 
